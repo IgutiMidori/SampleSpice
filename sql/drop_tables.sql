@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS mfa_otp;
+DROP TABLE IF EXISTS administrator;
+DROP TABLE IF EXISTS product_status;
+DROP TABLE IF EXISTS favorite_products;
+DROP TABLE IF EXISTS favorite_recipes;
+DROP TABLE IF EXISTS cart_items;
+DROP TABLE IF EXISTS cart;
+DROP TABLE IF EXISTS order_items;
+DROP TABLE IF EXISTS order_record;
+DROP TABLE IF EXISTS address;
+DROP TABLE IF EXISTS recipe_spice;
+DROP TABLE IF EXISTS recipe;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS spices;
+DROP TABLE IF EXISTS users;
